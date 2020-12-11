@@ -1,6 +1,5 @@
 {
-  "game":
-    [
+  "game":[
   {
     "topic": "3 фаза",
     "questions": [
@@ -33,7 +32,7 @@
         "answer": "Гагарин",
         "point": 1000,
         "statusVis": true
-      },
+      }
       ]
   },
   {
@@ -68,7 +67,7 @@
         "answer": "Лермонтов",
         "point": 1000,
         "statusVis": true
-      },
+      }
       ]
   },
   {
@@ -103,7 +102,7 @@
         "answer": "Кофе",
         "point": 1000,
         "statusVis": true
-      },
+      }
       ]
   },
   {
@@ -138,7 +137,7 @@
         "answer": "Попурри",
         "point": 1000,
         "statusVis": true
-      },
+      }
       ]
   },
   {
@@ -173,7 +172,7 @@
         "answer": "Из Евангелия",
         "point": 1000,
         "statusVis": true
-      },
+      }
       ]
   },
   {
@@ -208,10 +207,12 @@
         "answer": "Койот",
         "point": 1000,
         "statusVis": true
-      },
+      }
       ]
   }
-  ]}
+   
+  ]
+}
    
   
   
